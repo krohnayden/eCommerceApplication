@@ -1,4 +1,4 @@
-# ReadME Generator
+# eCommerce Application
 
 ## Description
 
